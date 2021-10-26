@@ -1,8 +1,7 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
+*
+/* :root {
+    color:#ffffff;
+} */
 
 body {
     background-color: #d9dcd6;
